@@ -10,6 +10,7 @@ This is a web appliction that displays a list of news sources from around the wo
 Python 3.8 Flask Pip -->
 
 # Prerequisties
+Python 3.8 Flask Pip -->
 
 
 # Set Up
