@@ -22,6 +22,7 @@ Python 3.8 Flask Pip -->
 # Set Up
 1. Install python version 3.8
 2. Clone this repository : `$ git clone https://github.com/hassan3111/News-Api
+3. create a virtual environment
 
 
 
