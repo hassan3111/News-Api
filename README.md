@@ -25,9 +25,10 @@ Python 3.8 Flask Pip
 
 es which direct the user to the source website to read full article details
 
-# Technologies Used
-1.Python 2.Flask 3.Bootsrap
+<!-- # Technologies Used
+1.Python 2.Flask 3.Bootsrap -->
 
+# Technologies used
 
 # view live
 here is a live link:https://hassan-aliko.herokuapp.com/
