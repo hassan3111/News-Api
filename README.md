@@ -28,5 +28,9 @@ es which direct the user to the source website to read full article details
 # Technologies Used
 1.Python 2.Flask 3.Bootsrap
 
+
+# view live
+
+
 # Licence
 this project is under [ MIT ] licence
