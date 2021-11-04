@@ -29,6 +29,8 @@ es which direct the user to the source website to read full article details
 1.Python 2.Flask 3.Bootsrap -->
 
 # Technologies used
+1.Python 2.Flask 3.Bootsrap -->
+
 
 # view live
 here is a live link:https://hassan-aliko.herokuapp.com/
