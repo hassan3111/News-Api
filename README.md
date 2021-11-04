@@ -17,17 +17,6 @@ Python 3.8 Flask Pip
 5. run $chmod a+x start.sh
 
 
-
-
-<!-- # BDD
-
-| Behaviour                                                                                        |                                                                      Input                                                                       |                                                                                                 Output |
-| ------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------: | -----------------------------------------------------------------------------------------------------: |
-| Page loads, user arrives in the landing page, a list of all available news sources is displayed. | The user can click on any particular list group item to be directed to a separate page containing news highlights curated by the same publisher. | On clicking the "read more" button, the user is redirected to the main article to read the full story. |  |
-
-es which direct the user to the source website to read full article details
- -->
-
 # BDD
 | Behaviour                                                                                        |                                                                      Input                                                                       |                                                                                                 Output |
 | ------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------: | -----------------------------------------------------------------------------------------------------: |
