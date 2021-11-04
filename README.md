@@ -7,17 +7,7 @@ This is a web appliction that displays a list of news sources from around the wo
 
 
 # Prerequisties
-Python 3.8 Flask Pip -->
-
-<!-- 
-# Set Up
-1. Install python version 3.8
-2. Clone this repository : `$ git clone https://github.com/hassan3111/News-Api
-3. create a virtual environment
-4. Create a start.sh file and store your key there: i.e export NEWS_API_KEY='' python3.8 manage.py server
-5. run $chmod a+x start.sh
-6. then run ./start.sh
- -->
+Python 3.8 Flask Pip 
 
 # Set Up
 1. Install python version 3.8
@@ -29,13 +19,19 @@ Python 3.8 Flask Pip -->
 
 
 
-# BDD
+<!-- # BDD
 
 | Behaviour                                                                                        |                                                                      Input                                                                       |                                                                                                 Output |
 | ------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------: | -----------------------------------------------------------------------------------------------------: |
 | Page loads, user arrives in the landing page, a list of all available news sources is displayed. | The user can click on any particular list group item to be directed to a separate page containing news highlights curated by the same publisher. | On clicking the "read more" button, the user is redirected to the main article to read the full story. |  |
 
 es which direct the user to the source website to read full article details
+ -->
+
+# BDD
+
+
+
 
 
 # Technologies used
